@@ -20,7 +20,7 @@ Hi 👋, I'm Bibek Kumar Das
   <a href="https://x.com/magical_cr76306" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="40" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/your_linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/bibekdass/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://facebook.com/your_facebook" target="_blank">
