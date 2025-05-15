@@ -82,5 +82,6 @@ Hi 👋, I'm Bibek Kumar Das
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" />
   </div>
 
+
 </body>
 </html>
