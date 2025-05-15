@@ -16,7 +16,6 @@ Hi 👋, I'm Bibek Kumar Das
 
 ### Connect with me:
 
-<h3>Connect with me:</h3>
 <p>
   <a href="https://x.com/magical_cr76306" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="40" height="40"/>
