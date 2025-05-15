@@ -48,23 +48,24 @@ Hi 👋, I'm Bibek Kumar Das
     .icon-container {
       display: flex;
       flex-wrap: wrap;
-      gap: 20px;
+      gap: 12px;
       align-items: center;
-      padding: 20px;
+      padding: 10px;
     }
     .icon-container img {
-      width: 50px;
-      height: 50px;
-      transition: transform 0.2s;
+      width: 30px;
+      height: 30px;
+      object-fit: contain;
+      transition: transform 0.2s ease;
     }
     .icon-container img:hover {
-      transform: scale(1.2);
+      transform: scale(1.15);
     }
   </style>
 </head>
 <body>
 
-  <h2>🛠️ Languages and Tools:</h2>
+  <h3>🛠️ Languages and Tools:</h3>
   <div class="icon-container">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />
@@ -83,5 +84,3 @@ Hi 👋, I'm Bibek Kumar Das
 
 </body>
 </html>
-
----
