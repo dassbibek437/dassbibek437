@@ -1,4 +1,4 @@
-Hi 👋, I'm Dikshant Bikram Thapa
+Hi 👋, I'm Bibek Kumar Das
 
 ### 🚀 AI & Machine Learning Explorer | Innovating from Nepal
 
@@ -8,12 +8,10 @@ Hi 👋, I'm Dikshant Bikram Thapa
 
 - 🔭 I’m currently working on **Image Processing Project**
 - 🤝 I’m looking to collaborate on **Machine Learning Projects**
-- 🤝 I’m looking to collaborate on **Flutter**
 - 🌱 I’m currently learning **Machine Learning**
 - ⚡ In my free time, I solve problems of **DSA** and read tech articles.
-- 📫 How to reach me: [Dikshant](https://github.com/DikshantThapa)
-- ⚡ For queries: dikshantthapa3@gmail.com
-
+- 📫 How to reach me: [Bibek](https://www.linkedin.com/in/bibekdass/)
+- ⚡ For queries: dassbibek437@gmail.com
 ---
 
 ### Connect with me:
