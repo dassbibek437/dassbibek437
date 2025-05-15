@@ -23,7 +23,7 @@ Hi 👋, I'm Bibek Kumar Das
   <a href="https://www.linkedin.com/in/bibekdass/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href=https://www.facebook.com/profile.php?id=100052829673383" target="_blank">
+  <a href="https://www.facebook.com/share/16M8sgp2km/?mibextid=wwXIfr" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <a href="https://instagram.com/your_instagram" target="_blank">
